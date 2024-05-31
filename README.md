@@ -96,3 +96,28 @@ This repo contains the names of the apps which i personally use, and might also 
 [Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?amp%3Bgl=US&hl=en-us&gl=IN) - Wintoys is similar to power toys but extensible i guess, never tried, if tried i will update here!.
 <br>
 [X Mouse Button Control](https://www.highrez.co.uk/downloads/xmousebuttoncontrol.htm) - X-Mouse Button Control (XMBC) is a free tool for Windows that allows you to re-configure and remap mouse buttons to expand the capabilities of your mouse.
+
+
+## Android Apps
+[AntennaPod](https://f-droid.org/en/packages/de.danoeh.antennapod/) - Easy-to-use, flexible and open-source podcast manager and player .
+<br>
+[Acode Editor](https://f-droid.org/en/packages/com.foxdebug.acode/) - A lightweight but powerful text/code editor.
+<br>
+[Blackhole](https://blackhole-apk.com/) - Trending App for enjoying Music - Streaming - Lyrics - Offline Listening - Playlist Import & Much More.
+<br>
+[Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app) - Start tracking your finances today and understand where your money is going with Cashew!.
+<br>
+[F-Droid](https://f-droid.org/en/) - F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform.
+<br>
+[LocalSend](https://play.google.com/store/apps/details?id=org.localsend.localsend_app&hl=en) - Send files to nearby devices (cross-platform).
+<br>
+[PlainApp](https://f-droid.org/en/packages/com.ismartcoding.plain/) - PlainApp is an open-source application that allows you to manage your phone through a web browser.
+<br>
+[RiMusic](https://f-droid.org/en/packages/it.fast4x.rimusic/) - A multilingual Android application for streaming music from YouTube Music.
+<br>
+[SiYuan](https://play.google.com/store/apps/details?id=org.b3log.siyuan&hl=en&gl=US) - SiYuan is a privacy-first personal knowledge management system, support fine-grained block-level reference and Markdown WYSIWYG.
+<br>
+[Tasks](https://f-droid.org/en/packages/org.tasks/) - Private, ad-free task lists! Optional sync with Google Tasks, CalDAV or EteSync!.
+<br>
+[Total Commander](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander&hl=en) - Total Commander dual pane powerful file manager.
+<br>
