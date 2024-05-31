@@ -1,5 +1,5 @@
 
-# Favourite Apps List (Productivity and Usefull Apps)
+# Favourite Apps List (Productivity and Useful Apps)
 This repo contains the names and links of the apps which i personally use, and might also contain dot files.
 
 
