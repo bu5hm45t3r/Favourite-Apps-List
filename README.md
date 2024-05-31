@@ -1,6 +1,6 @@
 
 # Favourite Apps List (Productivity and Useful Apps)
-This repo contains the names and links of the apps which i personally use, and might also contain dot files.
+This repo contains the names and links of the apps which i personally use and are FREE, and might also contain dot files.
 
 
 ## Windows Apps
@@ -26,11 +26,11 @@ This repo contains the names and links of the apps which i personally use, and m
 <br>
 [Darktable](https://www.darktable.org/) - Darktable is an open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers.
 <br>
-[Emacs](https://www.gnu.org/software/emacs/) - An awesome text editor..
+[Emacs](https://www.gnu.org/software/emacs/) - An awesome text editor.. Wayyyy powerful than imagined.
 <br>
 [Everything Search](https://www.voidtools.com/) - A file searcher, an amazing one..
 <br>
-[Explorer++](https://explorerplusplus.com/) - Fast light weight windows file manager
+[Explorer++](https://explorerplusplus.com/) - Fast light weight windows file manager, and free too.
 <br>
 [Free Download Manager FDM](https://www.freedownloadmanager.org/) - Best, fast and free download manager, which is really useful.
 <br>
