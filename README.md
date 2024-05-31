@@ -10,9 +10,9 @@ This repo contains the names and links of the apps which i personally use, and m
 <br>
 [Anki](https://apps.ankiweb.net/) - Powerful, intelligent flash cards.  Remembering things just became much easier.
 <br>
-[AutoHotKey](https://www.autohotkey.com/) - Take control of your windows.
+[AutoHotKey](https://www.autohotkey.com/) - Take control of your windows os. Hotkeys, Hotstrings and OS Automation.
 <br>
-[Blender](https://www.blender.org/) - Blender Blender Blender. 3D animation tool, free and opensource.
+[Blender](https://www.blender.org/) - Blender Blender Blender. 3D animation tool, free and open source.
 <br>
 [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Uninstall the shit easily.
 <br>
