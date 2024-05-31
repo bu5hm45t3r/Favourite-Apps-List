@@ -43,7 +43,8 @@ This repo contains the names of the apps which i personally use, and might also 
 [Qdir](https://doublecmd.sourceforge.io/) - A Dual pane File manager,a beautiful one too. But errr... okay use it.
 [Shell](https://nilesoft.org/) - Powerful, free, open source context menu manager.
 [ShareX](https://getsharex.com/) - ShareX is the ultimate screenshot tool that everyone should have.
-[ShotCut](https://shotcut.org/) - A free video editor similar to kdenlive
+[ShotCut](https://shotcut.org/) - A free video editor similar to kdenlive.
+[Statcher](https://stacher.io/) - A youtube-dl frontend.
 [ThunderBird](https://www.thunderbird.net/en-US/) - The best E-Mail Client ever.
 [Total Commander](https://www.ghisler.com/) - Also one of the greatest file manager out there.
 [VSCode](https://code.visualstudio.com/) - A best code editor out there.
