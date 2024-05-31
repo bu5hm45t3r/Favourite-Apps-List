@@ -6,6 +6,7 @@ This repo contains the names of the apps which i personally use, and might also 
 
 ## Windows Apps
 [7zip](https://www.7-zip.org/) - Best file archiver imo.
+<br>
 [AIMP](https://www.aimp.ru/) - A best music player made in Russia.
 [Anki](https://apps.ankiweb.net/) - Powerful, intelligent flash cards.  Remembering things just became much easier.
 [AutoHotKey](https://www.autohotkey.com/) - Take control of your windows.
