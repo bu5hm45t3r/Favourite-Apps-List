@@ -50,7 +50,7 @@ This repo contains the names and links of the apps which i personally use and ar
 <br>
 [mpv](https://mpv.io/) - a free, open source, and cross-platform media player.
 <br>
-[MultiCommander](https://multicommander.com/) -  File Manager for Professionals. A very good file manager imo.
+[MultiCommander](https://multicommander.com/) -  File Manager for Professionals. A very good file manager imo. It is very very very powerful file manager.
 <br>
 [Mullvad Browser](https://mullvad.net/en) - Mullvad VPN Browser.
 <br>
