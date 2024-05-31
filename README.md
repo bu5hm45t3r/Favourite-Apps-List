@@ -1,8 +1,7 @@
 
 # Favourite-Apps-List
-This repo contains the names of the apps which i personally use, and might also contain some files regarding the applications.
+This repo contains the names and links of the apps which i personally use, and might also contain dot files.
 
-> This Repo contains names of Windows and Android apps, no specific category/ order, but might also have little bit description.
 
 ## Windows Apps
 [7zip](https://www.7-zip.org/) - Best file archiver imo.
