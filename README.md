@@ -68,7 +68,7 @@ This repo contains the names and links of the apps which i personally use and ar
 <br>
 [PDF24](https://www.pdf24.org/en/) - Best PDF software.
 <br>
-[Powertoys](https://github.com/microsoft/PowerToys/releases/tag/v0.81.1) - Power Toys.
+[Powertoys](https://github.com/microsoft/PowerToys/releases/tag/v0.81.1) - Power Toys is a powerful tool to improve windows experience.
 <br>
 [Power Automate Desktop by Microsoft](https://www.microsoft.com/en-in/power-platform/products/power-automate) - Similar to AutoHotKey but little easy and constrained i guess.
 <br>
