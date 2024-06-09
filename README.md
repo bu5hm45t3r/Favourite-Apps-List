@@ -20,6 +20,8 @@ This repo contains the names and links of the apps which i personally use and ar
 <br>
 [Double Commander](https://doublecmd.sourceforge.io/) - Same as Total Commander but a free one and also great file manager.
 <br>
+[CherryTree](https://www.giuspen.net/cherrytree/) - A hierarchical note taking application, featuring rich text and syntax highlighting.
+<br>
 [ChromaFiler](https://github.com/vanjac/chromafiler) - A floating navigation file manager, one of a kind!.
 <br>
 [Clip Grab](https://clipgrab.org/faqs/howto-download-youtube-video) - Clipgrab, download videos from online.
