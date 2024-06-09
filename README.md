@@ -88,7 +88,7 @@ This repo contains the names and links of the apps which i personally use and ar
 <br>
 [Total Commander](https://www.ghisler.com/) - Also one of the greatest file manager out there.
 <br>
-[TreeSheets](https://github.com/aardappel/treesheets/releases) - Open Source Free Form Data Organizer. A spreadsheet note taking editor which is awesome, really really awesome and you can print it too.
+[TreeSheets](https://strlen.com/treesheets/)) - Open Source Free Form Data Organizer. A spreadsheet note taking editor which is awesome, really really awesome and you can print it too.
 <br>
 [VSCode](https://code.visualstudio.com/) - A best code editor out there.
 <br>
